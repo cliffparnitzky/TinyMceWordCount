@@ -30,6 +30,6 @@
 /**
  * Define name and tooltip for preferences (inactive modules)
  */
-$GLOBALS['TL_LANG']['MOD']['TinyMceWordCount'] = array('TinyMCE Wortzähl Plugin', 'Spezielles TinyMCE Plugin, dass die eingegebenen Wörter im Editor zählt.');
+$GLOBALS['TL_LANG']['MOD']['TinyMceWordCount'] = array('TinyMCE WortzÃ¤hl Plugin', 'Spezielles TinyMCE Plugin das die eingegebenen WÃ¶rter im Editor zÃ¤hlt.');
 
 ?>

@@ -1,5 +1,5 @@
-Contao TinyMceWordCount Extension
-=================================
+Contao Extension: TinyMceWordCount
+==================================
 
 Special TinyMCE plugin that adds word count functionality.
 
@@ -23,7 +23,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.9.5
-- max. version: Contao 2.11.6
+- max. version: Contao 2.11.x
 
 
 Dependency

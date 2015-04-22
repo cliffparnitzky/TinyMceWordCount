@@ -1,3 +1,7 @@
+[![Latest Version on Packagist](http://img.shields.io/packagist/v/cliffparnitzky/tiny-mce-word-count.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-word-count)
+[![Installations via composer per month](http://img.shields.io/packagist/dm/cliffparnitzky/tiny-mce-word-count.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-word-count)
+[![Installations via composer total](http://img.shields.io/packagist/dt/cliffparnitzky/tiny-mce-word-count.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-word-count)
+
 Contao Extension: TinyMceWordCount
 ==================================
 
@@ -5,12 +9,15 @@ Special TinyMCE plugin that adds word count functionality.
 
 The sources of this plugin could be found [here](http://www.tinymce.com/wiki.php/Plugin:wordcount).
 
+Now for TinyMCE 4.
+
 
 Installation
 ------------
 
-The extension is not published in contao extension repository.
-Install it manually or via [composer](https://packagist.org/packages/cliffparnitzky/tiny-mce-word-count).
+Install the extension via composer: [cliffparnitzky/tiny-mce-word-count](https://packagist.org/packages/cliffparnitzky/tiny-mce-word-count).
+
+If you prefer to install it manually, download the latest release here: https://github.com/cliffparnitzky/TinyMceWordCount/releases
 
 
 Tracker
@@ -22,10 +29,8 @@ https://github.com/cliffparnitzky/TinyMceWordCount/issues
 Compatibility
 -------------
 
-- min. version: Contao 3.0.x
-- max. version: Contao 3.2.x
-
-(For Contao 2 look at the [master_c2 Branch](https://github.com/cliffparnitzky/TinyMceWordCount/tree/master_c2))
+- min. Contao version: >= 3.3.0
+- max. Contao version: <  3.5.0
 
 
 Dependency
@@ -37,4 +42,4 @@ Dependency
 Screenshot
 ----------
 
-![Screenshot](https://raw.github.com/cliffparnitzky/TinyMceWordCount/master/screenshot.jpg)
+![Screenshot](screenshot.jpg)

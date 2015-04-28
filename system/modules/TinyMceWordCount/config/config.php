@@ -32,6 +32,9 @@
 $GLOBALS['TINY_PLUGINS'][] = 'wordcount';
 
 // Adding css fix
-$GLOBALS['TL_CSS'][] = 'system/modules/TinyMceWordCount/assets/mce_wordcount-fix.css';
- 
+if (TL_MODE == 'BE')
+{
+	$GLOBALS['TL_CSS'][] = 'system/modules/TinyMceWordCount/assets/mce_wordcount-fix.css';
+}
+
 ?>
